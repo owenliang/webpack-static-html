@@ -1,0 +1,1 @@
+webpackJsonp([1],{3:function(t,n){},6:function(t,n,c){"use strict";(function(t){var n=c(0);c(1),c(3),t(document).ready(function(){(0,n.log)(t("#about-title").text())})}).call(n,c(2))}},[6]);
